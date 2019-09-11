@@ -8,7 +8,7 @@ for number in the_count:
 
 #same as above 
 for friut in friuts:
-    print(f"friut is of type {friuts}")
+    print(f"friut is of type {friut}")
 
 #Also we can go throught mixed lists too
 #Notice we have to use {} since we don't know what's in it 
